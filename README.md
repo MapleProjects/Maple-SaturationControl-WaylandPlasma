@@ -55,7 +55,7 @@ maple-saturation-control --apply
 To publish this package onto the Arch User Repository (AUR), follow these simple steps:
 
 1. **Host Source Code on GitHub:**
-   - Create a public repository at `https://github.com/RickStylesProyects/Maple-SaturationControl-WaylandPlasma`.
+   - Create a public repository at `https://github.com/MapleProjects/Maple-SaturationControl-WaylandPlasma`.
    - Push your script `maple_saturation_control.py` and the `MapleSaturation.desktop` file to the main branch.
 
 2. **Initialize Empty AUR Repo:**
