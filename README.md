@@ -2,7 +2,6 @@
 
 A modern, native display color management utility designed to adjust screen saturation (digital vibrance) and contrast gamma curves in real-time under **KDE Plasma 6 Wayland** environments.
 
-![Design Preview](file:///home/rick/.gemini/antigravity-ide/brain/1b912710-2413-414d-a323-e0eb13c9c181/media__1779661743490.png)
 
 ## Key Features
 
