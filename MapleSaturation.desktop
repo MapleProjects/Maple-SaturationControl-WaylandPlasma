@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Maple Saturation Control
+Comment=Adjust Display Saturation and Gamma under KWin Wayland
+Exec="/home/rick/Escritorio/Puente/Maple-SaturationControl-WaylandPlasma/start_app.sh"
+Icon=preferences-desktop-display
+Terminal=false
+Categories=Utility;Settings;HardwareSettings;
